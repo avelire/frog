@@ -2,11 +2,45 @@
   border-radius:0;
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 200;
-  box-shadow: 0px 1px 2px #2a2a2a;
+  box-shadow: 0px 1px 2px #DCE0DE;
   background:url('stardust.png');
+  border: 0;
 }
 
 .navbar-inverse a.navbar-brand {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color:white;
+}
+
+.hero {
+  background: url('hero.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height:370px;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar {
+  margin:0;
+}
+
+.herotitle h5 {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color:white;
+	
+}
+
+.herotitle h1 {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 100;
+  color:white;
+
+}
+
+.herotitle h2 {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
   color:white;
